@@ -1,6 +1,6 @@
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRnimaofc2/Tutug)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-NIMA-X/Zim-Bot-Nima-Edition)
 
 ## BUILD PACKS
 
