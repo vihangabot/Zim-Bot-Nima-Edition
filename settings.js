@@ -16,26 +16,26 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] 
-global.pemilik = ['94715166712'] //pemilik nomor
-global.premium = ['94715166712'] //premium number
-global.pengguna = 'Nima' //pengguna
-global.botnma = 'GROUP BOT INC' //botnama,botname
-global.ownernma = 'nima' //ownernama,ownername
-global.packname = 'Nima offical group \nSticker pack 🥷' // packname
-global.author = 'Mr. nima' //authorname
+global.owner = ['94763427338'] 
+global.pemilik = ['94763427338'] //pemilik nomor
+global.premium = ['94763427338'] //premium number
+global.pengguna = 'Vihanga MD🧚' //pengguna
+global.botnma = 'VIHANGA BOT INC' //botnama,botname
+global.ownernma = 'Vihanga MD🧚' //ownernama,ownername
+global.packname = 'Vihanga offical group \nSticker pack 🥷' // packname
+global.author = 'Mr.Vihanga' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
-    botAdmin: 'zim bot must be admin neh!',
-    owner: 'This cmd is for zim bot owner only',
+    botAdmin: 'bot must be admin neh!',
+    owner: 'This cmd is for bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'wait zim bot processing ',
+    wait: 'ටිකක් ඉන්න 🤗 ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
