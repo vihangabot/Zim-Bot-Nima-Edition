@@ -1,3 +1,6 @@
+https://chat.whatsapp.com/LMMPM2ZLjyJKFpNFkMoY1r
+
+
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-NIMA-X/Zim-Bot-Nima-Edition)
