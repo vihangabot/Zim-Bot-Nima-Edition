@@ -1,3 +1,23 @@
+case'fb':{     	    
+
+             if (!text) return reply(`*Please give me a link*`)
+               
+            let bocil = require('@bochilteam/scraper')  
+                bocil.facebookdl(`${text}`).then(async (data) => {                   
+                    
+                buf = await getBuffer(data.thumbnail)    
+
+                for (let i of data.result) {     
+                ElisaBotMd.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, caption: `*Quality :* ${i.quality}`}, { quoted: m })
+                }          
+                }).catch((err) => {
+                    reply(mess.error)
+                })
+            }
+            break
+
+
+
 https://chat.whatsapp.com/LMMPM2ZLjyJKFpNFkMoY1r
 
 
